@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+    color: #333;
+}
+
+#menu {
+    width: 100%;
+    height: 100px;
+    background: red;
+}
+
+#menu ul {
+    background: white;
+    list-style-type: none;
+
+}
+
+#menu li {
+    position: relative;
+    color: black;
+    float: left;
+    width: 180px;
+    height: 40px;
+    line-height: 40px;
+    top: 65px;
+    left: 190px;
+
+}
+
+#menu a {
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+
+#menu a:hover {
+    background: red;
+    color: #333333;
+}
+
+#not ul {
+    background: white;
+    list-style-type: none;
+
+}
+
+#not li {
+    position: relative;
+    color: black;
+    float: left;
+    width: 300px;
+    height: 40px;
+    line-height: 40px;
+    top: -80px;
+    left: 170px;
+}
+
+#not img {
+    position: relative;
+    width: 70px;
+    height: 70px;
+    right: 100px;
+    bottom: 20px;
+}
+
+#dont img {
+    position: relative;
+    width: 90px;
+    right: 150px;
+    bottom: 20px;
+}
+
+#dont p {
+    position: relative;
+    right: 55px;
+    bottom: 90px;
+    line-height: 25px;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+#share img {
+    position: relative;
+    width: 90px;
+    height: 80px;
+    right: 20px;
+    bottom: 25px;
+}
+
+#share p {
+    position: relative;
+    left: 65px;
+    bottom: 120px;
+    line-height: 25px;
+    font-weight: bold;
+
+}
+
+#read img {
+    position: relative;
+    width: 65px;
+    height: 65px;
+    left: 25px;
+    bottom: 10px;
+    line-height: 25px;
+}
+
+#read p {
+    position: relative;
+    left: 95px;
+    bottom: 95px;
+    line-height: 25px;
+    font-weight: bold;
+    font-family: "Times New Roman", serif;
+}
+
+#body {
+    width: 10%;
+    height: 450px;
+    background: #73AD21;
+    float: left;
+}
+
+#body1 {
+    position: relative;
+    width: 45%;
+    height: 450px;
+    background: pink;
+    float: left;
+    left: 450px;
+    bottom: 450px;
+}

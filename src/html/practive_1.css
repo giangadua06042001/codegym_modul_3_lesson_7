@@ -1,0 +1,21 @@
+.non{
+    margin: 0 auto;
+    width: 800px;
+    border: 10px;
+    padding: 10px;
+    border-color: chartreuse aqua blue blueviolet;
+    border-style: solid;
+}
+.non p{
+    border: 3px dotted darkred;
+    padding: 10px;
+}
+#one{
+    margin-bottom: 20px;
+}
+#tow{
+    margin-bottom: 40px;
+}
+#three{
+    margin-bottom: 60px;
+}

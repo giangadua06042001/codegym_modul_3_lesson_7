@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae0fbc6f-b033-4a46-a487-f2ce4a33de44" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/html/demo_read_1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/html/demo_read_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html/demo_3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html/demo_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html/practive_1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html/practive_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html/practive_2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html/practive_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html/website.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/z4181381806485_8c828fb5ae65ef514c386996376db6e0.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -44,6 +51,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -55,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683777991063</updated>
-      <workItem from="1683777992385" duration="5503000" />
+      <workItem from="1683777992385" duration="36326000" />
     </task>
     <servers />
   </component>
